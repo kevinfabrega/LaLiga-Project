@@ -1,0 +1,2 @@
+[console_scripts]
+quiniela = quiniela.cli:main

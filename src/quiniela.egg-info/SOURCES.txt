@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/quiniela/__init__.py
+src/quiniela/cli.py
+src/quiniela/io.py
+src/quiniela/models.py
+src/quiniela/settings.py
+src/quiniela.egg-info/PKG-INFO
+src/quiniela.egg-info/SOURCES.txt
+src/quiniela.egg-info/dependency_links.txt
+src/quiniela.egg-info/entry_points.txt
+src/quiniela.egg-info/requires.txt
+src/quiniela.egg-info/top_level.txt
