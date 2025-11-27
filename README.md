@@ -1,6 +1,6 @@
 ## LaQuiniela of LaLiga
 
-Team members: Estel Mauri Font (1785045) - Germán Gallego Garcia (1605934)- Francesco Giuseppe Giubaldo (1782954) - Kevin Fábrega Morral (1598871)
+Team members: Estel Mauri Font - Germán Gallego Garcia - Francesco Giuseppe Giubaldo - Kevin Fábrega Morral
 
 This repo contains the skeleton for you to build your first ML project. Use the data in ```laliga.sqlite``` to build a ML model that predicts the outcome of a matchday in LaLiga (Spanish Football League).
 
